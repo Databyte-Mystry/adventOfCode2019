@@ -1,0 +1,1 @@
+filein = open('input.txt', 'r')
